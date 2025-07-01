@@ -1,0 +1,10 @@
+{
+  "name": "Renzo Restaked ETH",
+  "explorer": "https://explorer.swellnetwork.io/token/0x2416092f143378750bb29b79eD961ab195CcEea5",
+  "type": "ERC20",
+  "symbol": "ezETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+  "tags": ["defi"]
+}

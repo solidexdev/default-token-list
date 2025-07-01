@@ -1,0 +1,10 @@
+{
+  "name": "Swell Governance Token",
+  "explorer": "https://explorer.swellnetwork.io/token/0x2826D136F5630adA89C1678b64A61620Aab77Aea",
+  "type": "ERC20",
+  "symbol": "SWELL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2826D136F5630adA89C1678b64A61620Aab77Aea",
+  "tags": ["defi"]
+}

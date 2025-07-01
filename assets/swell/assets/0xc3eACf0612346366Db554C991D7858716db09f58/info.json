@@ -1,0 +1,10 @@
+{
+  "name": "KelpDao Restaked ETH",
+  "explorer": "https://explorer.swellnetwork.io/token/0xc3eACf0612346366Db554C991D7858716db09f58",
+  "type": "ERC20",
+  "symbol": "rsETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc3eACf0612346366Db554C991D7858716db09f58",
+  "tags": ["defi"]
+}

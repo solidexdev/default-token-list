@@ -1,0 +1,10 @@
+{
+  "name": "rSWELL",
+  "explorer": "https://explorer.swellnetwork.io/token/0x939f1cC163fDc38a77571019eb4Ad1794873bf8c",
+  "type": "ERC20",
+  "symbol": "rSWELL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x939f1cC163fDc38a77571019eb4Ad1794873bf8c",
+  "tags": ["defi"]
+}

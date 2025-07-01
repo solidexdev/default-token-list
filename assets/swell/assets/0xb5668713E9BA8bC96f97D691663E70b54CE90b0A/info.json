@@ -1,0 +1,10 @@
+{
+  "name": "uBTC",
+  "explorer": "https://explorer.swellnetwork.io/token/0xb5668713E9BA8bC96f97D691663E70b54CE90b0A",
+  "type": "ERC20",
+  "symbol": "uBTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb5668713E9BA8bC96f97D691663E70b54CE90b0A",
+  "tags": ["defi"]
+}

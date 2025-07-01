@@ -1,0 +1,10 @@
+{
+  "name": "Renzo Restaked LST",
+  "explorer": "https://explorer.swellnetwork.io/token/0x9cb41CD74D01ae4b4f640EC40f7A60cA1bCF83E7",
+  "type": "ERC20",
+  "symbol": "pzETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9cb41CD74D01ae4b4f640EC40f7A60cA1bCF83E7",
+  "tags": ["defi"]
+}

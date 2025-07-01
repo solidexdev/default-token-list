@@ -1,0 +1,10 @@
+{
+  "name": "rswETH",
+  "explorer": "https://explorer.swellnetwork.io/token/0x18d33689AE5d02649a859A1CF16c9f0563975258",
+  "type": "ERC20",
+  "symbol": "rswETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x18d33689AE5d02649a859A1CF16c9f0563975258",
+  "tags": ["defi"]
+}

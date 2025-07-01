@@ -1,0 +1,10 @@
+{
+  "name": "wSWELL",
+  "explorer": "https://explorer.swellnetwork.io/token/0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
+  "type": "ERC20",
+  "symbol": "wSWELL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcf22330Dad68Fb1E56214f4355144B0f29e88BA5",
+  "tags": ["defi"]
+}

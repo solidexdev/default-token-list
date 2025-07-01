@@ -1,0 +1,10 @@
+{
+  "name": "Anzen Token",
+  "explorer": "https://basescan.org/address/0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
+  "type": "ERC20",
+  "symbol": "ANZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeeC468333ccc16D4BF1cEf497A56cf8C0aAe4Ca3",
+  "tags": ["defi"]
+}

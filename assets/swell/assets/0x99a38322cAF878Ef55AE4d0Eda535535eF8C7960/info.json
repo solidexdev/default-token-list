@@ -1,0 +1,10 @@
+{
+  "name": "USDC",
+  "explorer": "https://explorer.swellnetwork.io/token/0x99a38322cAF878Ef55AE4d0Eda535535eF8C7960",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x99a38322cAF878Ef55AE4d0Eda535535eF8C7960",
+  "tags": ["stablecoin"]
+}
