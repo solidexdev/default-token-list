@@ -1,0 +1,125 @@
+{
+  "name": "Cronos Token List",
+  "timestamp": "2024-07-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "keywords": ["cronos"],
+  "tokens": [
+    {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "WCRO",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x9D8c68F185A04314DDC8B8216732455e8dbb7E45",
+      "name": "LION",
+      "symbol": "LION",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+      "name": "VVS",
+      "symbol": "VVS",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x3b41B27E74Dd366CE27cB389dc7877D4e1516d4d",
+      "name": "MERY",
+      "symbol": "MERY",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xD896aA25da8e3832d68d1C05fEE9C851d42F1dC1",
+      "name": "AurumTrust",
+      "symbol": "AUT",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xF24409D155965ca87c45aD5BC084aD8aD3Be4f39",
+      "name": "Capybara Nation",
+      "symbol": "BARA",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x46E2B5423F6ff46A8A35861EC9DAfF26af77AB9A",
+      "name": "Moonflow",
+      "symbol": "MOON",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xaF02D78F39C0002D14b95A3bE272DA02379AfF21",
+      "name": "Fortune",
+      "symbol": "FRTN",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x59e60d641677cEcAE77868176F314F42572F5284",
+      "name": "Nuts",
+      "symbol": "NUTS",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x055c517654d72A45B0d64Dc8733f8A38E27Fd49C",
+      "name": "RYOSHI",
+      "symbol": "RYOSHI",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x88bF399D2BbbE7Ba3C1EbEf2Ac83Ae7571FF10d7",
+      "name": "FROGS",
+      "symbol": "FROGS",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x63eD0a82cAC237667C89Cd6AC5BFa2317186FdAa",
+      "name": "CROB",
+      "symbol": "CROB",
+      "decimals": 18,
+      "chainId": 25
+    }
+  ]
+}

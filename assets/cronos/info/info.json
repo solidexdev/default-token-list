@@ -1,0 +1,26 @@
+{
+  "name": "Cronos",
+  "website": "https://cronos.org",
+  "description": "Cronos is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain.",
+  "explorer": "https://cronoscan.com",
+  "research": "https://cronos.mirror.xyz",
+  "symbol": "CRO",
+  "type": "coin",
+  "coin_type": 25,
+  "decimals": 18,
+  "status": "active",
+  "rpc_url": "https://cronos-mainnet.public.blastapi.io",
+  "tags": [
+    "dapp"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/buildoncronos"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/cronos-labs"
+    }
+  ]
+}
