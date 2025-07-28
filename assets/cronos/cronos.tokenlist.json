@@ -120,6 +120,13 @@
       "symbol": "CROB",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15",
+      "name": "XRP",
+      "symbol": "XRP",
+      "decimals": 6,
+      "chainId": 25
     }
   ]
 }
