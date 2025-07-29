@@ -1,6 +1,6 @@
 {
   "name": "Cronos Token List",
-  "timestamp": "2024-07-01T00:00:00Z",
+  "timestamp": "2025-07-29T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -125,6 +125,181 @@
       "address": "0xb9Ce0dd29C91E02d4620F57a66700Fc5e41d6D15",
       "name": "XRP",
       "symbol": "XRP",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "name": "Binance",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xc9DE0F3e08162312528FF72559db82590b481800",
+      "name": "Solana",
+      "symbol": "SOL",
+      "decimals": 9,
+      "chainId": 25
+    },
+    {
+      "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+      "name": "ADA",
+      "symbol": "ADA",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
+      "name": "XLM",
+      "symbol": "XLM",
+      "decimals": 7,
+      "chainId": 25
+    },
+    {
+      "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+      "name": "LINK",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xe0C7226a58f54db71eDc6289Ba2dc80349B41974",
+      "name": "HBAR",
+      "symbol": "HBAR",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0x7589B70aBb83427bb7049e08ee9fC6479ccB7a23",
+      "name": "BCH",
+      "symbol": "BCH",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640",
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "decimals": 9,
+      "chainId": 25
+    },
+    {
+      "address": "0x9d97Be214b68C7051215BB61059B4e299Cd792c3",
+      "name": "LTC",
+      "symbol": "LTC",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
+      "name": "DOT",
+      "symbol": "DOT",
+      "decimals": 10,
+      "chainId": 25
+    },
+    {
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xAFE470AE215e48c144c7158EAe3CcF0C451cb0CB",
+      "name": "NEAR",
+      "symbol": "NEAR",
+      "decimals": 24,
+      "chainId": 25
+    },
+    {
+      "address": "0xd9ce64C200721a98103102f9ea8e894E347EA287",
+      "name": "ETC",
+      "symbol": "ETC",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x8Bf3E654075E269c1C415e4889C12D9837452be0",
+      "name": "ICP",
+      "symbol": "ICP",
+      "decimals": 8,
+      "chainId": 25
+    },
+    {
+      "address": "0xA09e39D0d621fcd92d0b32DfEDDd7396d0E4Dcc7",
+      "name": "BONK",
+      "symbol": "BONK",
+      "decimals": 5,
+      "chainId": 25
+    },
+    {
+      "address": "0x2fEfe47989214c2e74A6319076c138d395681407",
+      "name": "ALGO",
+      "symbol": "ALGO",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0xC9B5b981E7FFd630f456614d75230022F46fD03d",
+      "name": "VET",
+      "symbol": "VET",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+      "name": "ATOM",
+      "symbol": "ATOM",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0x7d7130B0B4733D603Cea12628b52067ce8458058",
+      "name": "FIL",
+      "symbol": "FIL",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x982b59aaE4f0BC66960b4BF06d6fE96b9F33d3F7",
+      "name": "TIA",
+      "symbol": "TIA",
+      "decimals": 6,
+      "chainId": 25
+    },
+    {
+      "address": "0xfEf44a0C77eca218F443382d3128a7A251a8C542",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x4907c3Fa905103b443C3a3c659caC1B703a235BD",
+      "name": "OP",
+      "symbol": "OP",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x30BBA7b57952E7028c47d5c6AB295D0Da7139eF9",
+      "name": "STX",
+      "symbol": "STX",
       "decimals": 6,
       "chainId": 25
     }
