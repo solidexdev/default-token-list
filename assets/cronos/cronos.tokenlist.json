@@ -309,6 +309,27 @@
       "symbol": "ROBIN",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0xB3551aCf805D5F90A1Fd7444B6571BdC069F40b2",
+      "name": "LUME",
+      "symbol": "LUME",
+      "decimals": 9,
+      "chainId": 25
+    },
+    {
+      "address": "0x6d810420Fcee6478cE73d4f466A094BBAdE11dA6",
+      "name": "NOVA",
+      "symbol": "NOVA",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x88bF399D2BbbE7Ba3C1EbEf2Ac83Ae7571FF10d7",
+      "name": "FROGS",
+      "symbol": "FROGS",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
