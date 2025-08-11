@@ -330,6 +330,13 @@
       "symbol": "FROGS",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0xbc95dd42ba4fa1ab074d447227178b1314750211",
+      "name": "WARIO",
+      "symbol": "WARIO",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
