@@ -337,6 +337,20 @@
       "symbol": "WARIO",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0x7a7c9db510aB29A2FC362a4c34260BEcB5cE3446",
+      "name": "Crypto.com Staked ETH",
+      "symbol": "CDCETH",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d",
+      "name": "Crypto.com Wrapped BTC",
+      "symbol": "CDCBTC",
+      "decimals": 8,
+      "chainId": 25
     }
   ]
 }
