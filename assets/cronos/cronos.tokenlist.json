@@ -351,6 +351,13 @@
       "symbol": "CDCBTC",
       "decimals": 8,
       "chainId": 25
+    },
+    {
+      "address": "0xEe6dbc52Fe9c32f2129A183F3Af3027A420c612c",
+      "name": "whosurdaddy",
+      "symbol": "DADDY",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
