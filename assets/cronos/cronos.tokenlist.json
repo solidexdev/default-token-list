@@ -358,6 +358,13 @@
       "symbol": "DADDY",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0x9Fae23A2700FEeCd5b93e43fDBc03c76AA7C08A6",
+      "name": "Liquid CRO",
+      "symbol": "LCRO",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
