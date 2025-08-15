@@ -365,6 +365,13 @@
       "symbol": "LCRO",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0xf94cAf1671C6B879952cCE90255CE9bAA4Eb386b",
+      "name": "Solidex",
+      "symbol": "SDX",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
