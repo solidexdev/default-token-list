@@ -372,6 +372,20 @@
       "symbol": "SDX",
       "decimals": 18,
       "chainId": 25
+    },
+    {
+      "address": "0xEA573241a7C56f28657cd347C264dc5DBe3C4326",
+      "name": "Willy The Giant",
+      "symbol": "Willy",
+      "decimals": 18,
+      "chainId": 25
+    },
+    {
+      "address": "0xD4fb405Dea05d23bA39978316c80114757cd9951",
+      "name": "CROG",
+      "symbol": "CROG",
+      "decimals": 18,
+      "chainId": 25
     }
   ]
 }
